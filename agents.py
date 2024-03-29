@@ -11,7 +11,7 @@ class AINewsLetterAgents():
             not only informs but also engages and inspires the readers. """,
             allow_delegation=True,
             verbose=True,
-            max_iter=15
+            max_iter=15 
         )
 
     def news_fetcher_agent(self):

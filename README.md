@@ -16,6 +16,8 @@ To get started with the CrewAI Hierarchical Tutorial, clone the repository and i
 git clone https://github.com/your-github-username/crewai-hierarchical-tutorial.git
 cd crewai-hierarchical-tutorial
 pip install -r requirements.txt
+you may need to install poetry if you don't have it installed already
+
 ```
 
 ## Usage
